@@ -1,0 +1,7 @@
+ros-kinetic-raspigibbon-sim (0.0.1-0jessie) jessie; urgency=high
+
+  * The first release of raspigibbon_sim for kinetic
+
+ -- RT Corporation <shop@rt-net.jp>  Wed, 28 Feb 2018 15:00:00 -0000
+
+
